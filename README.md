@@ -4,6 +4,7 @@
 <p align="center">
   <img src="image.png" alt="Ảnh minh hoạ" width="800" />
 </p>
+
 ## Cấu trúc file
 - **`Code.gs`**: Chứa logic backend (xử lý API, lấy email, lọc email).
 - **`index.html`**: Giao diện HTML để hiển thị email, yêu cầu mã PIN để xác thực.
