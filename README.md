@@ -1,3 +1,5 @@
+[![🇺🇸 English](https://img.shields.io/badge/Language-English-1e293b?style=flat-square)](README-EN.md)
+
 # Ứng Dụng Đọc Gmail
 
 Ứng dụng Google Apps Script để đọc email từ Gmail (hộp thư đến và spam) qua giao diện HTML hoặc API, hỗ trợ lọc email theo tiêu đề/người gửi.
@@ -45,8 +47,7 @@
         "snippet": "Nội dung xem trước...",
         "isUnread": false,
         "html": "<p>Nội dung HTML</p>"
-      },
-      ...
+      }
     ]
   }
   ```
@@ -82,10 +83,10 @@ curl -X POST https://script.google.com/macros/s/.../exec \
 
 ---
 
-## 📫 Liên hệ với tôi
+## 📫 Liên hệ
 
-- 📞 **SĐT:** 0963 159 294
-- 🌐 **Website:** [lowji194.github.io](https://lowji194.github.io)
+- 🌐 **Website:** [theloi.io.vn](https://theloi.io.vn)
+- 💬 **Telegram:** [@theloi194](https://t.me/theloi194)
 - 📌 **Facebook:** [Lowji194](https://facebook.com/Lowji194)
 
 ---
